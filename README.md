@@ -26,3 +26,5 @@ Notes on Trustpilot ratings:
 ‍ Google, Microsoft, and Zoho Trustpilot scores are company-wide ratings, not product-specific
 Trustpilot ratings often reflect broader company issues (billing, support, other products) beyond the survey tool itself
 Based on cross-platform ratings, the survey tools with the highest average scores are SmartSurvey (4.55), Zoho Survey (4.43), QuestionPro (4.35), and SurveyMonkey (4.20). Notably, SmartSurvey is the only platform with consistently high scores (4.4+) across ALL review sites including Trustpilot, while competitors like Qualtrics, Typeform, SurveyMonkey, and Microsoft show significant gaps between professional review sites and consumer ratings.
+
+[https://www.smartsurvey.com/blog/best-online-survey-tools](https://www.smartsurvey.com/blog/best-online-survey-tools)
